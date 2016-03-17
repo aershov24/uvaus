@@ -1,0 +1,16 @@
+.DS_*
+
+node_modules
+
+workspace
+
+*.log
+
+npm-debug.*
+
+coverage
+
+/bower_components
+
+*sublime*
+sessions

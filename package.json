@@ -1,0 +1,23 @@
+{
+  "name": "uvaus",
+  "version": "1.0.0",
+  "description": "Current and max UV index for australian locations",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uvindex",
+    "uv",
+    "uv",
+    "index",
+    "australia"
+  ],
+  "author": "Alex Ershov",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.69.0",
+    "xml2js": "^0.4.16"
+  }
+}
